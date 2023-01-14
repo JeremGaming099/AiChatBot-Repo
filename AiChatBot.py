@@ -33,4 +33,4 @@ async def on_message(message):
         await message.channel.send(response)
 
 # Exécuter le bot
-client.run("MTA1MzU2NDE1MDM4ODg5OTkyNw.G7ulKh.l-uCl0oRblvPb63tTmE0lOV6dZ_Ouye42bTK28")
+client.run("MTA1MzU2NDE1MDM4ODg5OTkyNw.GjC2P2.OzKCn1oswnD52Fri82agKmdv2aU7PO93dl5fgA")
